@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CucumberTestSuite">
+
+    <test name="CucumberTests">
+        <classes>
+            <class name="StepDefinition.moTestRunner"/>
+        </classes>
+    </test>
+
+</suite>
